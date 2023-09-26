@@ -6,4 +6,4 @@
 ParcelGuard was born from the need to solve package loss issues in my apartment complexes. My goal is to ensure secure and efficient package delivery while enhancing overall community management. By offering secure tracking solutions and integrated communication tools, I am trying to create a seamless and safe living environment for my fellow residents.
 
 <h3 align="left">Project Details</h3>
-This project is currently working in progress. **ECD: mid-September**
+[Demo video is availble here](https://www.youtube.com/watch?v=hgYkxh9KjUw&t=1s/)
